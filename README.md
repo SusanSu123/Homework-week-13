@@ -8,13 +8,13 @@ Because this application won’t be deployed, you’ll also need to provide a li
 
 ## How to install
 
-* Git clone https://github.com/SusanSu123/Homework-week-13.git
+* git clone https://github.com/SusanSu123/Homework-week-13.git
 * npm install pakages from pakage.json
 * create .env file
 * create DB in MySQL Workbench
 * node seeds/index.js run seeds DB
 * npm start
-* Use postman/insomnia to test routes 
+* use postman/insomnia to test routes 
   on http//:localhost:3001/
 * walkthrough video https://www.youtube.com/watch?v=1scY4B8Fu_k
 
