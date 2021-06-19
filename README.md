@@ -16,6 +16,7 @@ Because this application won’t be deployed, you’ll also need to provide a li
 * npm start
 * Use postman/insomnia to test routes 
   on http//:localhost:3001/
+* walkthrough vedio https://www.youtube.com/watch?v=1scY4B8Fu_k
 
 ## Prequisites
 
