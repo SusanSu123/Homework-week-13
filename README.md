@@ -6,7 +6,7 @@ Because this application won’t be deployed, you’ll also need to provide a li
 
 ## How to install
 
-* git clone https://github.com/SusanSu123/Homework-week-13.git
+* git clone https://github.com/SusanSu123/Object-Relational-Mapping-ORM-E-Commerce-Back-End.git
 * npm install pakages from pakage.json
 * create .env file
 * create DB in MySQL Workbench
